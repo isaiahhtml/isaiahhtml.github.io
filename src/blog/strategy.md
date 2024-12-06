@@ -1,5 +1,5 @@
 ---
-title: Strategy
+title: Competitive gaming and Kernel anti cheat
 layout: post.njk
 date: 2024-05-24
 ---
