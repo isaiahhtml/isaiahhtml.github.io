@@ -3,7 +3,7 @@ title: Welcome
 layout: base.njk
 ---
 
-Blog about programming, stuff that interests me.
+My blog
 
 ## Blog Posts
 <ul>
