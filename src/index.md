@@ -3,7 +3,7 @@ title: Welcome
 layout: base.njk
 ---
 
-My blog
+My blog. JavaScript.
 
 ## Blog Posts
 <ul>
