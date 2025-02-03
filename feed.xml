@@ -7,16 +7,13 @@
     <description>Blogging about random stuff</description>
     <language>en</language>
     <item>
-      <title>Competitive gaming and Kernel anti cheat</title>
-      <link>/blog/strategy/</link>
-      <description>&lt;p&gt;Competitive gaming is only good when you do it for fun. An appreciation for
-improvement of a niche skill.&lt;/p&gt;
-&lt;p&gt;Pray for the competitive game you are playing implement an invasive kernel anti
-cheat.&lt;/p&gt;
+      <title>Calculating Player Market Value</title>
+      <link>/blog/playermarketvalue/</link>
+      <description>&lt;p&gt;It&#39;s hard.&lt;/p&gt;
 </description>
-      <pubDate>Fri, 24 May 2024 24:00:00 GMT</pubDate>
+      <pubDate>Mon, 03 Feb 2025 24:00:00 GMT</pubDate>
       <dc:creator>Isaiah</dc:creator>
-      <guid>/blog/strategy/</guid>
+      <guid>/blog/playermarketvalue/</guid>
     </item>
   </channel>
 </rss>
