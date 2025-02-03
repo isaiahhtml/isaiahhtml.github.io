@@ -3,8 +3,6 @@ title: Welcome
 layout: base.njk
 ---
 
-My blog. JavaScript.
-
 ## Blog Posts
 <ul>
   {% for post in collections.posts %}

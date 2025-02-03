@@ -3,5 +3,5 @@ layout: base.njk
 ---
 
 <h1>{{ title }}</h1>
-<h2>{{ page.date | shortDate }}</h2>
+<h2>{{ page.date | formatDate }}</h2>
 <article>{{ content | safe}}</article>
