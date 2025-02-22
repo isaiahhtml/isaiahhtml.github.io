@@ -7,9 +7,33 @@
     <description>Blogging about random stuff</description>
     <language>en</language>
     <item>
-      <title>Calculating Player Market Value</title>
+      <title>On Calculating Player Market Value</title>
       <link>/blog/playermarketvalue/</link>
       <description>&lt;p&gt;It&#39;s hard.&lt;/p&gt;
+&lt;p&gt;NA Salary is too opaque. They&#39;re protecting it so much. All I see is the
+overspending from previous years.&lt;/p&gt;
+&lt;p&gt;All I have so far is
+&lt;a href=&quot;https://www.theverge.com/2017/11/20/16679430/league-of-legends-na-lcs-permanent-teams&quot;&gt;minimum salary stated by a Riot Official in 2017.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Minimum salary of $75,000 annual during 2017.&lt;/p&gt;
+&lt;p&gt;Which I adjusted with US Gov&#39;s
+&lt;a href=&quot;https://www.bls.gov/data/inflation_calculator.htm&quot;&gt;inflation calculator&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;$97,473.53 in inflation data 2024.&lt;/p&gt;
+&lt;p&gt;Role multiplier based on
+&lt;a href=&quot;https://www.sheepesports.com/en/articles/exclusive-everything-about-lec-salaries-unveiled-or-lec-wooloo/en&quot;&gt;LEC 2025 salary report&lt;/a&gt;
+by Sheep Esports.&lt;/p&gt;
+&lt;p&gt;Based in order of average LEC salary 2025 by role:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MID - 1.0&lt;/li&gt;
+&lt;li&gt;JNG - 0.8&lt;/li&gt;
+&lt;li&gt;BOT - 0.6&lt;/li&gt;
+&lt;li&gt;TOP - 0.4&lt;/li&gt;
+&lt;li&gt;SUP - 0.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;What I got so far:&lt;/h3&gt;
+&lt;p&gt;player market value:
+adjusted minimum salary X age function X role multiplier&lt;/p&gt;
+&lt;p&gt;And I haven&#39;t taken into account previous year&#39;s performance which is hard to
+calculate too.&lt;/p&gt;
 </description>
       <pubDate>Mon, 03 Feb 2025 24:00:00 GMT</pubDate>
       <dc:creator>Isaiah</dc:creator>
