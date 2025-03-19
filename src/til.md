@@ -10,4 +10,4 @@ all Markdown flavors.
 Nevermind, it might be the default behavior. Tried it out with Obsidian.
 
 When command history or arrow keys are not working in sqlite3 cli, use `rlwrap` 
-because installed sqlite cli does not readline support.
+because installed sqlite cli does not have readline support.
