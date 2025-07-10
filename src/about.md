@@ -4,6 +4,9 @@ layout: base.njk
 permalink: /about/
 ---
 
+
+> “What I cannot create, I do not understand.” ― Richard P. Feynman
+
 # Hi! I'm Isaiah Harrison
 
 This is a blog for random things.
